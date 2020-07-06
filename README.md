@@ -6,4 +6,5 @@ Python optimized solutions
 3rd - Prison Cell after N Days
 4th - Ugly Numbers II
 5th - Hamming Distance
+6th - Plus One
 ```
