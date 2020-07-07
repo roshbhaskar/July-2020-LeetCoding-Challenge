@@ -7,4 +7,5 @@ Python optimized solutions
 4th - Ugly Numbers II
 5th - Hamming Distance
 6th - Plus One
+7th - Island Perimeter
 ```
