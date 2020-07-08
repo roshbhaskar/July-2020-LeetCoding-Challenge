@@ -8,4 +8,5 @@ Python optimized solutions
 5th - Hamming Distance
 6th - Plus One
 7th - Island Perimeter
+8th - 3Sum
 ```
